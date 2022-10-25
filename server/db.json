@@ -1,0 +1,53 @@
+{
+  "contacts": [
+    {
+      "fullname": "مریم کریمی",
+      "photo": "img/6.jpg",
+      "mobile": "0765066002",
+      "email": "Maryam@gmail.com",
+      "job": "دانشجو و برنامه نویس",
+      "group": "1",
+      "id": 4
+    },
+    {
+      "fullname": "روح الله اکبری",
+      "photo": "/img/5.jpg",
+      "mobile": "0789349348",
+      "email": "Rohullah@gmail.com",
+      "job": "دانشجو و برنامه نویس",
+      "group": "2",
+      "id": 5
+    },
+    {
+      "fullname": "نقیب",
+      "photo": "img/1.jpg",
+      "mobile": "0765066001",
+      "email": "Toplearn@gmail.com",
+      "job": "klfjsa",
+      "group": "انتخاب گروه",
+      "id": 6
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "همکار"
+    },
+    {
+      "id": "2",
+      "name": "دوست"
+    },
+    {
+      "id": "3",
+      "name": "فامیل"
+    },
+    {
+      "id": "4",
+      "name": "سرویس"
+    },
+    {
+      "id": "5",
+      "name": "آشنا"
+    }
+  ]
+}
